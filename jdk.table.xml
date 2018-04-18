@@ -1,0 +1,165 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="ruby-1.8.7-p374" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.8.7p0" />
+      <homePath value="C:\dev\apps\Ruby187\bin\ruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/site_ruby/1.8" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/site_ruby/1.8/i386-msvcrt" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/site_ruby" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/vendor_ruby/1.8" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/vendor_ruby/1.8/i386-msvcrt" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/1.8" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/1.8/i386-mingw32" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/site_ruby/1.8" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/site_ruby/1.8/i386-msvcrt" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/site_ruby" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/vendor_ruby/1.8" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/vendor_ruby/1.8/i386-msvcrt" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/1.8" type="simple" />
+            <root url="file://C:/dev/apps/Ruby187/lib/ruby/1.8/i386-mingw32" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.1.8.7p0" PLATFORM="i386-mingw32" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="C:/dev/apps/Ruby187/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_152&quot;" />
+      <homePath value="C:/dev/apps/java/jdk8u152" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/access-bridge-32.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/access-bridge.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://C:/dev/apps/java/jdk8u152/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://C:/dev/apps/java/jdk8u152/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.14" />
+      <homePath value="C:\Program Files (x86)\Python27\python.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files (x86)/Python27/DLLs" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python27/Lib" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python27" type="simple" />
+            <root url="file://C:/Program Files (x86)/Python27/Lib/site-packages" type="simple" />
+            <root url="file://C:/dev/tmp/.intelliJIdea/system/python_stubs/1627210269" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (venv)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="C:\dev\src\coursera\datasci_course_materials\venv\Scripts\python.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/dev/src/coursera/datasci_course_materials/venv/Lib" type="simple" />
+            <root url="file://C:/dev/src/coursera/datasci_course_materials/venv/Scripts" type="simple" />
+            <root url="file://C:/dev/apps/python27/Lib" type="simple" />
+            <root url="file://C:/dev/apps/python27/DLLs" type="simple" />
+            <root url="file://C:/dev/apps/python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/dev/src/coursera/datasci_course_materials/venv" type="simple" />
+            <root url="file://C:/dev/src/coursera/datasci_course_materials/venv/Lib/site-packages" type="simple" />
+            <root url="file://C:/dev/apps/python27" type="simple" />
+            <root url="file://C:/dev/apps/python27/Lib/site-packages" type="simple" />
+            <root url="file://C:/dev/tmp/.intelliJIdea/system/python_stubs/-1143264464" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

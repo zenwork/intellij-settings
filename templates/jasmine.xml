@@ -1,0 +1,23 @@
+<templateSet group="jasmine">
+  <template name="desc" value="describe(&quot;$DESC$&quot;,function($PARAM$) {&#10;  $END$&#10;});" description="Inserts describe block" toReformat="true" toShortenFQNames="true">
+    <variable name="DESC" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it(&quot;should $DESC$&quot;,function($PARAM$) {&#10;  $END$&#10;});" description="Inserts it block" toReformat="true" toShortenFQNames="true">
+    <variable name="DESC" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="exp" value="expect($END$).$MATCHER$($EXPECTATION$);" description="inserts an expect block" toReformat="true" toShortenFQNames="true">
+    <variable name="MATCHER" expression="completeSmart()" defaultValue="toBe" alwaysStopAt="true" />
+    <variable name="EXPECTATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

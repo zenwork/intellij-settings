@@ -1,0 +1,7 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\u002201\.IntelliJIdea2017.3\config\plugins\Kotlin\kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="C:\dev\tmp\m2\repository" />
+    <macro name="banklet-security-path" value="/dev/temp/config/banklet" />
+  </component>
+</application>

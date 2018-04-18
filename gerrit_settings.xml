@@ -1,0 +1,3 @@
+<application>
+  <component name="GerritSettings" Login="u002201" Host="http://tuxdmzdevt01.dmz.avaloq.com/gerrit" ListAllChanges="false" AutomaticRefresh="false" RefreshTimeout="0" ReviewNotifications="false" PushToGerrit="false" ShowChangeNumberColumn="false" ShowChangeIdColumn="false" ShowTopicColumn="false" ShowProjectColumn="AUTO" />
+</application>

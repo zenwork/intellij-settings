@@ -1,0 +1,46 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7 (venv) interpreter library">
+      <CLASSES>
+        <root url="file://C:/dev/src/coursera/datasci_course_materials/venv/Lib" />
+        <root url="file://C:/dev/src/coursera/datasci_course_materials/venv/Scripts" />
+        <root url="file://C:/dev/apps/python27/Lib" />
+        <root url="file://C:/dev/apps/python27/DLLs" />
+        <root url="file://C:/dev/apps/python27/Lib/lib-tk" />
+        <root url="file://C:/dev/src/coursera/datasci_course_materials/venv" />
+        <root url="file://C:/dev/src/coursera/datasci_course_materials/venv/Lib/site-packages" />
+        <root url="file://C:/dev/apps/python27" />
+        <root url="file://C:/dev/apps/python27/Lib/site-packages" />
+        <root url="file://C:/dev/tmp/.intelliJIdea/system/python_stubs/-1143264464" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/dev/src/coursera/datasci_course_materials/venv/Lib" />
+        <root url="file://C:/dev/src/coursera/datasci_course_materials/venv/Scripts" />
+        <root url="file://C:/dev/apps/python27/Lib" />
+        <root url="file://C:/dev/apps/python27/DLLs" />
+        <root url="file://C:/dev/apps/python27/Lib/lib-tk" />
+        <root url="file://C:/dev/src/coursera/datasci_course_materials/venv" />
+        <root url="file://C:/dev/src/coursera/datasci_course_materials/venv/Lib/site-packages" />
+        <root url="file://C:/dev/apps/python27" />
+        <root url="file://C:/dev/apps/python27/Lib/site-packages" />
+        <root url="file://C:/dev/tmp/.intelliJIdea/system/python_stubs/-1143264464" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>

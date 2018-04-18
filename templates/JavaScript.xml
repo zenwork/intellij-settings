@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="logo" value="console.log(&quot;$MSG$:&quot;+JSON.stringify($MSG$));$END$" description="log object" toReformat="true" toShortenFQNames="true">
+    <variable name="MSG" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

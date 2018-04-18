@@ -1,0 +1,12 @@
+<application>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="8ac47eef-e7eb-4643-8c99-a3f7dd8456ea" baseUri="https://bitbucket.sits.avaloq.net/" />
+      <instance uuid="1f75cefd-dfb9-4d09-bf29-8b4712add2fb" baseUri="https://bitbucket.sits.avaloq.net/" />
+    </instances>
+    <lookup>
+      <record scheme="https" hostname="bitbucket.sits.avaloq.net" port="-1" path="/" uuid="1f75cefd-dfb9-4d09-bf29-8b4712add2fb" />
+      <record scheme="ssh" hostname="bitbucket.sits.avaloq.net" port="-1" path="/" uuid="8ac47eef-e7eb-4643-8c99-a3f7dd8456ea" />
+    </lookup>
+  </component>
+</application>

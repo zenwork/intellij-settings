@@ -1,0 +1,270 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="09fefdec-63f4-4eed-aedd-d1aa1e3f4ec4" name="c0d00097" url="http://c0d00097.sys.net">
+        <fileTransfer host="c0d00097.sys.net" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7c86df9e-2ad0-45e4-869a-4e2d620d70af" name="c0d00299" url="">
+        <fileTransfer host="c0d00299.sys.net" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="91a12bac-4ca7-4b21-8d7e-3c18896a549a" name="c0s00010" url="http://c0s00010">
+        <fileTransfer host="c0s00010" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6defc899-5e75-444b-bc39-755908972bec" name="c0s00007" url="http://c0s00007">
+        <fileTransfer host="c0s00007" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="75e6dbb7-1672-4803-8822-0b3ea458c799" name="c0d00503" url="http://c0d00503">
+        <fileTransfer host="c0d00503" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="74420b77-af1f-4ba6-b0c9-b0b5dca67d8c" name="c0d00297" url="">
+        <fileTransfer host="c0d00297" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5b7022a3-bc3f-4b65-8a3f-55c09aa03bc5" name="c0d00195" url="http://c0d00195">
+        <fileTransfer host="c0d00195" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0ef248b1-e4ec-442f-a68a-e651648d5465" name="c0d00434" url="http://c0d00434">
+        <fileTransfer host="c0d00434" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="578bac56-cd30-4500-82cf-95a80da42a66" name="c0d00439" url="http://c0d00439">
+        <fileTransfer host="c0d00439" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0b41243e-f9c6-4c15-832e-7308960c83b3" name="c0d00114" url="http://c0d00114">
+        <fileTransfer host="c0d00114" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="eac84b2f-caf4-4d59-827e-33db99ab11d3" name="c0d00144" url="http://c0d00144.sys.net">
+        <fileTransfer host="c0d00144" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="586295d9-0dac-4694-b473-0d50827b2eb1" name="c0d00765" url="">
+        <fileTransfer host="c0d00765.sys.net" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e3407018-3fe6-49b8-9d1b-4e6b65c025fa" name="c0d00438" url="http://c0d00438">
+        <fileTransfer host="c0d00438" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fe026e65-7e25-4f4f-bab6-84a07b3242b2" name="c0d00825" url="">
+        <fileTransfer host="c0d00825.sys.net" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fee18a6b-59d0-4987-aac4-83501133a45d" name="c0d00433" url="http://c0d00433">
+        <fileTransfer host="c0d00433" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="92a1ca9c-36f5-4dab-87e9-c0d66f205826" name="c0d00304" url="http://c0d00304">
+        <fileTransfer host="c0d00304" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ba3bb31b-53f5-4992-8920-17a1ed42cdd3" name="c0d00146" url="http://c0d00146.sys.net">
+        <fileTransfer host="c0d00146" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9bbce13b-fcd7-4a93-a184-d5f9c5373433" name="c0d00570" url="http://c0d00570">
+        <fileTransfer host="c0d00570" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4c258a3b-c1c2-4324-8e7b-90e19dcdbe45" name="c0s00020" url="http://c0s00020.sys.net">
+        <fileTransfer host="c0s00020.sys.net" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="aa5faa62-7afc-4f0b-89f2-502096c120e1" name="c0s00008" url="http://c0s00008.sys.net">
+        <fileTransfer host="c0s00008.sys.net" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="10da37ab-f9d4-4f9c-be30-e95a57a09cc7" name="c0d00421" url="http://c0d00421">
+        <fileTransfer host="c0d00421" port="22" rootFolder="/data/front/i1/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d2250672-1e22-4daa-8d3b-79d24ec8e8dd" name="c0s00020 (1)" url="http://c0s00020">
+        <fileTransfer host="c0s00020" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6858f074-ca39-4aef-a2e5-e34edf6b43b3" name="c0d00922" url="">
+        <fileTransfer host="c0d00922.sys.net" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7244d576-f76f-47ae-9f0f-a3b86f5396e2" name="c0d00432" url="http://c0d00432">
+        <fileTransfer host="c0d00432" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="52f982f3-2103-4208-9f70-8b5b4151402a" name="c0d00581" url="http://c0d00581">
+        <fileTransfer host="c0d00581" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="721a49d1-d7ea-49cb-9469-a5c9a4f8d5cb" name="c0d00083" url="http://c0d00083.sys.net">
+        <fileTransfer host="c0d00083.sys.net" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7f7b853d-e08a-43f8-90aa-14aac0551ad5" name="c0d00538" url="http://c0d00538.sys.net">
+        <fileTransfer host="c0d00538.sys.net" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f0b2e884-dc10-48d4-9183-1f14e079288c" name="c0d00197" url="http://c0d00197">
+        <fileTransfer host="c0d00197" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0d64a671-e332-4761-afd1-c8bcf8f72a93" name="c0d00898" url="">
+        <fileTransfer host="c0d00898.sys.net" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b507fd7a-af58-4dd2-8861-8bc55b982ed0" name="c0d01183" url="">
+        <fileTransfer host="c0d01183.sys.net" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="8f322bf1-9e9c-407d-8341-fd17d269b5b9" name="c0d00895" url="">
+        <fileTransfer host="c0d00895.sys.net" port="22" rootFolder="/data/front" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="90c6edb8-54bb-42bc-8445-f8d0ca39cb67" name="c0d00198" url="http://c0d00198">
+        <fileTransfer host="c0d00198" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="eac23f6f-db4a-4a45-b7b9-9a60ced945a8" name="c0d00390" url="http://c0d00390">
+        <fileTransfer host="c0d00390" port="22" rootFolder="/data/front/i1/afp_installation/afp_pres" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

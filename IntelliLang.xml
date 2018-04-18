@@ -1,0 +1,20 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="HTML" injector-id="java">
+      <display-name>Assert.assertEquals (org.junit)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("assertEquals").withParameters("java.lang.Object", "java.lang.Object").definedInClass("org.junit.Assert"))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="java">
+      <display-name>HtmlReportFactory.wrapInPage (avaloq.orchestration.resources.api.html)</display-name>
+      <place><![CDATA[psiMethod().withName("wrapInPage").withParameters("java.lang.CharSequence").definedInClass("avaloq.orchestration.resources.api.html.HtmlReportFactory")]]></place>
+    </injection>
+    <injection language="HSQLDB" injector-id="java">
+      <display-name>SqlQuery.value (org.skife.jdbi.v2.sqlobject)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.skife.jdbi.v2.sqlobject.SqlQuery")]]></place>
+    </injection>
+    <injection language="HSQLDB" injector-id="java">
+      <display-name>SqlUpdate.value (org.skife.jdbi.v2.sqlobject)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.skife.jdbi.v2.sqlobject.SqlUpdate")]]></place>
+    </injection>
+  </component>
+</application>
